@@ -1,0 +1,7 @@
+<svg width="320px" hight="320px" fill="none" xmlsn="http://www.w3.org/2000/svg">
+    <symbol id="diamond" viewbox="0 0 320 320">
+        <polyline points="10,100 60,10 260,10 310,100 160,292 10,100 310,100 260,10 210,100 160,10
+            110,100 60,10 110,100 160,292 210,100" stroke="black" stroke-width="13"
+            fill="#FFFFFF" stroke-linejoin="round"><polyline>
+    </symbol>
+</svg>
